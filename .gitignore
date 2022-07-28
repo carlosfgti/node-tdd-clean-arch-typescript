@@ -2,4 +2,4 @@
 todo.txt
 *.log
 /dist
-converage
+/coverage
